@@ -1293,3 +1293,6 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.05.15-14.59.11:306][589]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
 [2025.05.15-14.59.11:323][589]LogXGEController: Cleaning working directory: C:/Users/Nadia/AppData/Local/Temp/UnrealXGEWorkingDir/
 [2025.05.15-14.59.11:364][589]LogPakFile: Destroying PakPlatformFile
+[2025.05.15-14.59.12:310][589]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.05.15-14.59.12:568][589]LogExit: Exiting.
+[2025.05.15-14.59.12:928][589]Log file closed, 05/15/25 21:59:12
